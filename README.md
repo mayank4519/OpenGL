@@ -12,6 +12,8 @@ Project covers usage of:
 
 Vendors:
 ImGui
+glm
+stb_image
 
 Dependency:
 GLFW
